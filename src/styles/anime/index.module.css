@@ -61,11 +61,12 @@
 
 .demo > div div:nth-child(2):hover{
     transform: scale(2,2);
+    background-color: #b4ffb4;
     line-height: 7;
 }
 
 .demo > div div:nth-child(3):hover{
-    background-color: tomato;
+    background-color: #ff6347;
     transform: rotate(90deg);
 }
 
