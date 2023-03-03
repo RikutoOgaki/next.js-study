@@ -16,6 +16,7 @@ export default function Check(){
     return(
         <div className={Style.check}>
             <input type="checkbox" name="" id="checkbox"/>
+            <input type="checkbox" name="" id="checkbox"/>
         </div>
     )
 }
