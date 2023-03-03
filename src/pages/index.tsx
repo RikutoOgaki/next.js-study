@@ -14,6 +14,7 @@ export default function App(){
                         <li><Link href={'/todo'}>TodoList</Link></li>
                         <li><Link href={'/anime'}>AnimationList</Link></li>
                         <li><Link href={'/Compo'}>CompoList</Link></li>
+                        <li><Link href={'/check'}>CheckBox</Link></li>
                     </ul>
                 </Box>
             </Box>
