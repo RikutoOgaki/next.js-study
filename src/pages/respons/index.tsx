@@ -12,7 +12,7 @@ export default function Respons(){
                 <main>
                     <div>
                         <figure>
-                            <img src="" alt="" />
+                            <img src="/img/01.jpg" alt="hosi" />
                         </figure>
                     </div>
                 </main>
