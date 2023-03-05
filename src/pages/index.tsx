@@ -15,6 +15,7 @@ export default function App(){
                         <li><Link href={'/anime'}>AnimationList</Link></li>
                         <li><Link href={'/Compo'}>CompoList</Link></li>
                         <li><Link href={'/check'}>CheckBox</Link></li>
+                        <li><Link href={'/respons'}>Respons対応ページ</Link></li>
                     </ul>
                 </Box>
             </Box>

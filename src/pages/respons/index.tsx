@@ -10,7 +10,11 @@ export default function Respons(){
                     <h1 className={Style.title}>Respons対応ページ</h1>
                 </header>
                 <main>
-                    
+                    <div>
+                        <figure>
+                            <img src="" alt="" />
+                        </figure>
+                    </div>
                 </main>
                 <footer>
                     
